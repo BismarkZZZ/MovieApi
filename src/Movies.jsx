@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Card, Button, Container, Row, Col, Image } from 'react-bootstrap';
+import { Card, Button, Container, Row } from 'react-bootstrap';
 
 class Movies extends Component {
     constructor(props) {
